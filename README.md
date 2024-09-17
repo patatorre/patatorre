@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on
   - some python scripts that use Discord as an interface
+  - A display script for attract-mode frontend (this:https://attractmode.org/)
 
 
 <!--
