@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
+  - Python jukebox  
   - some python scripts that use Discord as an interface
   - A display script for attract-mode frontend (this:https://attractmode.org/)
 
