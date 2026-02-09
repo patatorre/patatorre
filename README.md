@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on:
   - Python jukebox  
-  - some python scripts that use Discord as an interface
-  - A display script for attract-mode frontend (this:https://attractmode.org/)
+  - Some python scripts that use Discord, so I can throw them on the cloud and interact with them on my phone
+  - A display script for attract-mode frontend for arcade emulation (this:https://attractmode.org/)
 
 
 <!--
