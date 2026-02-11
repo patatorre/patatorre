@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - Python jukebox with touchcreen inteface
+  - Python jukebox for touchcreen interface
   - Some python scripts that use Discord, so I can throw them on the cloud and interact with them on my phone
   - A display script for attract-mode frontend for arcade emulation (this:https://attractmode.org/)
 
