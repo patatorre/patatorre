@@ -5,7 +5,7 @@
   - Some python scripts that use Discord, so I can throw them on the cloud and interact with them on my phone
   - A display script for attract-mode frontend for arcade emulation (this:https://attractmode.org/)
 
-[![Buy Me a Coffee](https://media.giphy.com/media/7kZE0z52Sd9zSESzDA/giphy.gif)](https://buymeacoffee.com/patrickdumais)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/patrickdumais)
 
 <!--
 **patatorre/patatorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
